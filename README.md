@@ -30,4 +30,4 @@ The deliverable of this project is a comprehensive Jupyter Notebook that include
 In conclusion, this project highlights the practical significance of optimization models in improving business efficiency. By leveraging Python and linear programming, it provides a structured approach to decision-making, demonstrating how data-driven models can significantly enhance operational performance and strategic planning.
 
 OUTPUT:
-
+<img width="997" height="260" alt="Image" src="https://github.com/user-attachments/assets/7e4deaf8-8411-44ca-bdf7-042a0a9cea95" />
